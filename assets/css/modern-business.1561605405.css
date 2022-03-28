@@ -59,7 +59,7 @@ header.carousel .fill {
     height: 100%;
     background-position: top;
     /*background-size: 100%;*/
-    background-image:url('../images/first.jpg');
+    background-image:url('../images/first.jpeg');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -562,6 +562,10 @@ p.title{
     align-items: stretch;
 }
 */
+
+.sabi-star {
+    color: #388E3C;
+}
 
 .print-container
 {
